@@ -1,1 +1,1 @@
-Online product exchange among differen users inside college campus.
+Online product exchange among different users inside college campus.
